@@ -1,4 +1,4 @@
-👋 Hi, I’m Naila Shafirni Hidayat
+👋 Hi, I’m Naila Shafirni Hidayat<br>
 👀 A computer science student who are interested in Data Science and Back-end Development.
 
 <!---
