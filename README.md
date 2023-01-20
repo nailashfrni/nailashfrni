@@ -1,5 +1,5 @@
 👋 Hi, I’m Naila Shafirni Hidayat<br>
-👀 I'm a computer science student who are interested in Data Science and Back-end Development
+👀 I'm a computer science student at University of Indonesia
 
 <!---
 nailashfrni/nailashfrni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
